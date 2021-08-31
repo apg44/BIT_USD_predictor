@@ -10,3 +10,8 @@ Predicción del valor BTC-USD ,basada en la evolución histórica del valor de B
   - 32 Batch Size
   
 :dart: **Este modelo muestra una eficacia del 94.4 % sobre la predicción de Agosto 2021**
+ 
+  
+  
+![BTC_USD_predictions_202108](https://user-images.githubusercontent.com/44492117/131573729-2bcd7d60-bbcc-41ff-acd4-5370ffa897e8.png)
+
