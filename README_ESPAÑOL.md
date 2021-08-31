@@ -9,4 +9,4 @@ Predicción del valor BTC-USD ,basada en la evolución histórica del valor de B
   - 100 Epochs
   - 32 Batch Size
   
-:dart: **Este modelo muestra una eficacia del 5% sobre la predicción de Agosto 2021**
+:dart: **Este modelo muestra una eficacia del 94.4 % sobre la predicción de Agosto 2021**
